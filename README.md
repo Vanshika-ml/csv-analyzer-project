@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CSV Analyzer Project
 
 ## Features
@@ -28,3 +29,7 @@
 2. Run source.py
 3. Enter CSV file path
 4. Select menu options
+=======
+# CSV-Analyzer-Project
+“CSV Analyzer using Python and Pandas”
+>>>>>>> fa9f93b5483760a23ab7b53c8e62766a6c3eb587
